@@ -1,5 +1,7 @@
 # 7Scripts
 
+If you need help add me on Discord: .𝖓𝖊𝖛𝖎𝖔𝖔 | ℘#2205
+
 Please dont't judge me for the really messy and bad practice code it is a rellatively old project.
 I have decided to release the source code because I don't have the time and desire to work on this project anymore.
 it is outdated but you just have to change the configs a bit and it is up to date again.
