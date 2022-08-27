@@ -4,6 +4,9 @@ Please dont't judge me for the really messy and bad practice code it is a rellat
 I have decided to release the source code because I don't have the time and desire to work on this project anymore.
 it is outdated but you just have to change the configs a bit and it is up to date again.
 
+### [Showcase](https://www.youtube.com/watch?v=ppVOJYxDBLs&t=16s)
+### [Installation](https://www.youtube.com/watch?v=jO7OZ1TQpnI)
+
 !!!Use at your own risk!!!
 
 However, I have removed some security featurs and the login/register system.
