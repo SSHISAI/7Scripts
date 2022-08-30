@@ -7,14 +7,10 @@ it is outdated but you just have to change the configs a bit and it is up to dat
 ### [Showcase](https://www.youtube.com/watch?v=ppVOJYxDBLs)
 ### [Installation](https://www.youtube.com/watch?v=jO7OZ1TQpnI)
 
-!!!Use at your own risk!!!
+## If you are looking for a good macro/anti recoil take a look at this: https://www.youtube.com/watch?v=QJGG9x_XEFw
 
 However, I have removed some security featurs and the login/register system.
 Here are some screenshots:
 
 ![unknown](https://user-images.githubusercontent.com/102999825/166521202-363354b2-b10f-4bba-bac2-2f0661cd9277.png)
 ![unknown2](https://user-images.githubusercontent.com/102999825/166521217-3d12c753-288b-43a1-8f60-8943c22785dc.png)
-
-By the way, this is the login system I have used
-
-![unknown3](https://user-images.githubusercontent.com/102999825/166521997-73cf4950-4500-487c-9906-d77d092f4465.png)
